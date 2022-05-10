@@ -14,6 +14,8 @@ If you want to use these scripts to run experiments, please install [shotakoyama
 
 ## scores
 
+I trained 5 models for each line's experiment.
+
 | model | pre/postproc | avg | max | std | misc | 
 | --- | --- | --- | --- | --- | --- |
 | gpt2-small      |             | 49.45 | 50.09 | 0.48 |  |
