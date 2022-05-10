@@ -1,0 +1,13 @@
+*
+!.gitignore
+!align_test.sh
+!generate.sh
+!generate_applym2.sh
+!generate_test.sh
+!result.filtered.tsv
+!result.tsv
+!result_applym2.filtered.tsv
+!result_applym2.tsv
+!score.sh
+!score_applym2.sh
+!train.sh
